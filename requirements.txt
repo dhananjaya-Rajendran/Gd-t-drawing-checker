@@ -1,0 +1,12 @@
+pymupdf>=1.23.0
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+pillow>=10.0.0
+pydantic>=2.0.0
+chromadb>=0.4.0
+reportlab>=4.0.0
+ollama>=0.1.6
+openai>=1.0.0
+rapidocr-onnxruntime>=1.2.3
+huggingface-hub>=0.19.0
+openvino-genai>=2024.4.0
